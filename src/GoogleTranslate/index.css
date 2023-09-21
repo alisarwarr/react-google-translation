@@ -1,0 +1,15 @@
+#google_translate_element {
+    background-color: #eee !important;
+    color: #333 !important;
+    padding: 20px !important;
+}
+  
+.goog-te-combo {
+    /* Customize the select box styles */
+    background-color: pink !important;
+    color: white !important;
+    font-size: 20px !important;
+    border: 5px solid black !important;
+    border-radius: 10px !important;
+    padding: 5px !important;
+}  
